@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy un futuro Ingeniero de Sistemas 🚀
 
-<!--
-**bvasquezkeysije/bvasquezkeysije** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente curso el **8vo ciclo** de mi carrera, enfocado en el desarrollo de software moderno y soluciones escalables.
 
-Here are some ideas to get you started:
+### 🛠️ Mis Skills Principales
+* **Móvil:** Android Studio, Kotlin, Jetpack Compose.
+* **Backend & DB:** Java, MySQL (Proyecto sistema_intercambio).
+* **Herramientas:** Git, GitHub, Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Proyectos Destacados
+* **Sistema de Intercambio:** Gestión de datos y lógica en MySQL.
+* **Desarrollo Android:** Aplicaciones móviles nativas con Kotlin.
+
+📫 **¿Cómo contactarme?** [Enlace a tu LinkedIn]
