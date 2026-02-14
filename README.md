@@ -16,4 +16,4 @@ Actualmente en el **8vo ciclo**, enfocado en construir soluciones escalables que
 * **Sistema de Intercambio (SDIL):** Arquitectura completa con MySQL y lógica de negocio.
 * **Cloud Solutions:** Sistemas web desplegados y operativos en Azure.
 
-📫 **Conectemos:** www.linkedin.com/in/keysi-jeanpierre-bardales-vasquez-1b6076262
+📫 **Conectemos:** [www.linkedin.com/in/keysi-jeanpierre-bardales-vasquez-1b6076262]
