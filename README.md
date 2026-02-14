@@ -1,14 +1,19 @@
 # ¡Hola! Soy un futuro Ingeniero de Sistemas 🚀
 
-Actualmente curso el **8vo ciclo** de mi carrera, enfocado en el desarrollo de software moderno y soluciones escalables.
+Actualmente en el **8vo ciclo**, enfocado en construir soluciones escalables que integran desarrollo móvil, backend robusto y la nube.
 
-### 🛠️ Mis Skills Principales
-* **Móvil:** Android Studio, Kotlin, Jetpack Compose.
-* **Backend & DB:** Java, MySQL (Proyecto sistema_intercambio).
-* **Herramientas:** Git, GitHub, Azure.
+### ☁️ Cloud & Deployment
+* **Azure & AWS:** Experiencia desplegando APIs y sistemas web (PaaS, Virtual Machines).
+* **Infraestructura:** Gestión de bases de datos en la nube y configuración de entornos productivos.
 
-### 📂 Proyectos Destacados
-* **Sistema de Intercambio:** Gestión de datos y lógica en MySQL.
-* **Desarrollo Android:** Aplicaciones móviles nativas con Kotlin.
+### 🛠️ Tecnologías Core
+* **Mobile:** Android Studio, Kotlin, Jetpack Compose, Flutter.
+* **Backend:** Java (JSP/Servlets), Spring Boot, APIs REST.
+* **Database:** MySQL (Diseño, procedimientos y optimización).
+* **Data & Tools:** Power BI, Git/GitHub, HTML/CSS.
 
-📫 **¿Cómo contactarme?** [Enlace a tu LinkedIn]
+### 📂 Proyectos con Impacto
+* **Sistema de Intercambio (SDIL):** Arquitectura completa con MySQL y lógica de negocio.
+* **Cloud Solutions:** Sistemas web desplegados y operativos en Azure.
+
+📫 **Conectemos:** [Tu Link de LinkedIn aquí]
